@@ -1,0 +1,6 @@
+*.pyc
+__pycache__/
+pysocwatch.egg-info
+SoCWatchOutput.*
+pyvtune/
+data/
